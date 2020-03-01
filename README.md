@@ -20,10 +20,17 @@ West Bromwich 2:1 Leichester - ongoing
 - Листа од играчи
 Проширување
 1) Да се прошири програмата така што, кај натпреварите што се завршени, името на тимот кој што победил да се напише со големи букви. Ако натпреварот е нерешен, имињата на двата тима остануваат не променети.
+
 Пример:
-MANCHESTER UNITED 10:0 Chelsea - finished 
-Arsenal 0:3 Liverpool - ongoing 
-Everton 3:3 Tottenham - finished 
-Newcastle 3:3 Stoke City - ongoing 
-West Ham 1:3 SOUTHAMPTON - finished 
-West Bromwich 2:1 Leichester - ongoing
+
+      MANCHESTER UNITED 10:0 Chelsea - finished 
+
+      Arsenal 0:3 Liverpool - ongoing 
+
+      Everton 3:3 Tottenham - finished 
+
+      Newcastle 3:3 Stoke City - ongoing 
+
+      West Ham 1:3 SOUTHAMPTON - finished 
+
+      West Bromwich 2:1 Leichester - ongoing
